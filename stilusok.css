@@ -8,23 +8,15 @@ body {
 h1 {
     font-family: 'Arial', cursive;
     font-size: 3em;
-    color: white;
+    color: darkblue;
     text-align: center;
     margin-top: 20px;
-}
-
-h2 {
-    font-family: 'Arial', cursive;
-    font-size: 2em;
-    color: white;
-    text-align: center;
-    margin-top: 10px;
 }
 
 p {
     font-family: 'Arial', sans-serif;
     font-size: 1.5em;
-    color: White;
+    color: #333333;
     text-align: justify;
     margin: 20px;
     line-height: 1.6;
